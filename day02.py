@@ -1,8 +1,8 @@
 # Day 2 Practice - Learning Python Basics
 
 # Variables
-name = "Pavan"
-age = 23
+name = "Balaji"
+age = 22
 learning = "Agentic AI"
 
 print("Name:", name)
