@@ -1,7 +1,7 @@
 # Day 3 Practice - Python Data Types
 
-name = "Pavan"
-age = 23
+name = "Balaji"
+age = 22
 height = 5.8
 is_student = True
 
