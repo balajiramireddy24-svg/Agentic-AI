@@ -1,0 +1,7 @@
+pip show fastapi
+
+pip uninastall fastapi
+
+pip install fastapi[standard]
+
+fastapi dev .\get_main.py

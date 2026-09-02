@@ -1,0 +1,6 @@
+pip install pytest
+
+pytest pytest2.py
+
+
+ pip  install scikit-learn StandardScaler
